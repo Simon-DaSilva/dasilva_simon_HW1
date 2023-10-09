@@ -37,3 +37,15 @@ Bowser Junior! Is he Bowser's biological son? Is he just a koopa Bowser adopted 
 Finally, here is a photo of a funny-looking kitten which I cherish.
 
 ![Image of a Funny Kitten](images/funny_cat.jpg)
+
+## Nikole
+
+Hello, my name is Nikole. I adore drinking coffee and anything coffee related. I love stuffed animals a lot, and have a collection back home in Korea.
+
+**Hobbies**
+
+I'd say some of my favorite hobbies are playing video games, drawing, making music and streaming. I do at least one of them every single day.
+
+**Other facts about me**
+
+I do multiple things online as part time jobs. I do art commissions, fps video game tourneys, design commissions, manager for content creators, streaming, etc. At first, I started doing all of this for fun, but now I make enough to pay my rent and other living expenses.
