@@ -56,7 +56,7 @@ Hello, my name is Simon. I am 20 and this is not my first post secondary school.
 
 **Hobbies**
 
-I enjoy playing fighting games, reading and listening to music. I mostly read either Novels or manga. I used to watch anime but i'm really not a fan of it anymore. Tiktok will probably be the death of me but I enjoy scrolling through it for hours. I also spent several summers at an overnight camp which I absolutely loved, called Cedar Ridge.
+I enjoy playing fighting games (my favourite right now is Mortal Kombat 1), reading and listening to music. I mostly read either Novels or manga. I used to watch anime but i'm really not a fan of it anymore. Tiktok will probably be the death of me but I enjoy scrolling through it for hours. I also spent several summers at an overnight camp which I absolutely loved, called Cedar Ridge.
 
 **Accomplishments**
 
