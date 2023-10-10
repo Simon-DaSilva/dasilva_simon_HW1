@@ -38,7 +38,8 @@ Finally, here is a photo of a funny-looking kitten which I cherish.
 
 ![Image of a Funny Kitten](images/funny_cat.jpg)
 
-## Nikole
+
+## Nikole (SooA Cho)
 
 Hello, my name is Nikole. I adore drinking coffee and anything coffee related. I love stuffed animals a lot, and have a collection back home in Korea.
 
@@ -49,3 +50,7 @@ I'd say some of my favorite hobbies are playing video games, drawing, making mus
 **Other facts about me**
 
 I do multiple things online as part time jobs. I do art commissions, fps video game tourneys, design commissions, manager for content creators, streaming, etc. At first, I started doing all of this for fun, but now I make enough to pay my rent and other living expenses.
+
+Here's a character I really like, because I thought their design looked very cool!
+
+![Image of Ramattra](images/rammatra_portrait.webp)
