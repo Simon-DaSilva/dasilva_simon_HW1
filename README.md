@@ -53,7 +53,7 @@ I do multiple things online as part time jobs. I do art commissions, fps video g
 
 Here's a character I really like, because I thought their design looked very cool!
 
-![Image of Ramattra](images/rammatra_portrait.webp)
+![Image of Ramattra](images/ramattra_overwatch_1.jpg)
 ## Simon
 
 Hello, my name is Simon. I am 20 and this is not my first post secondary school. I spent 2 years at western doing computer science but decided it was not for me. I love all animals (insects dont count), but I love cats the most, although im alergic so I can't have one. 
